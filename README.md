@@ -1,20 +1,20 @@
-# Description
+#### Description
 This is a basic Twitter Crawler and Emotion Classifier
 
-# TODO
+#### TODO
 You need to provide the following information for the script to run properly
 
-# Consumer Key
+#### Consumer Key
 ckey = 'YOUR_CONSUMER_KEY'
-# Consumer Secret
+#### Consumer Secret
 csecret = 'YOUR_CONSUMER_SECRET'
-# Access Token
+#### Access Token
 atoken = 'YOUR_ACCESS_TOKEN'
-# Acces Secret
+#### Access Secret
 asecret = 'YOUR_ACCESS_SECRET'
 
-# Emotion API Url
+#### Emotion API Url
 url = 'EMOTION_API_URL'
 
-# Keywords to track (comma dilimited list)
+#### Keywords to track (comma dilimited list)
 track = ['FIFA','fifa',]
